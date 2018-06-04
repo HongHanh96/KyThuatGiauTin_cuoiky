@@ -20,3 +20,11 @@ C:\Users\Doan\Desktop\N14DCAT060_DoanHongHAnh\demo_watermarking_LSB\obj\Debug\St
 C:\Users\Doan\Desktop\N14DCAT060_DoanHongHAnh\demo_watermarking_LSB\obj\Debug\SteganoWave.pdb
 C:\Users\Doan\Desktop\N14DCAT060_DoanHongHAnh\demo_watermarking\obj\Debug\SteganoWave.exe
 C:\Users\Doan\Desktop\N14DCAT060_DoanHongHAnh\demo_watermarking\obj\Debug\SteganoWave.pdb
+C:\Users\Doan\Documents\GitHub\KyThuatGiauTin_cuoiky\N14DCAT060_DoanHongHanh\demo_watermarking\obj\Debug\SteganoWave.exe
+C:\Users\Doan\Documents\GitHub\KyThuatGiauTin_cuoiky\N14DCAT060_DoanHongHanh\demo_watermarking\obj\Debug\SteganoWave.pdb
+C:\Users\Doan\Documents\GitHub\KyThuatGiauTin_cuoiky\N14DCAT060_DoanHongHanh\demo_watermarking\bin\Debug\SteganoWave.exe
+C:\Users\Doan\Documents\GitHub\KyThuatGiauTin_cuoiky\N14DCAT060_DoanHongHanh\demo_watermarking\bin\Debug\SteganoWave.pdb
+C:\Users\Doan\Documents\GitHub\KyThuatGiauTin_cuoiky\N14DCAT060_DoanHongHanh\demo_watermarking\obj\Debug\SteganoWave.csprojResolveAssemblyReference.cache
+C:\Users\Doan\Documents\GitHub\KyThuatGiauTin_cuoiky\N14DCAT060_DoanHongHanh\demo_watermarking\obj\Debug\SteganoWave.frmMain.resources
+C:\Users\Doan\Documents\GitHub\KyThuatGiauTin_cuoiky\N14DCAT060_DoanHongHanh\demo_watermarking\obj\Debug\SteganoWave.frmRecorder.resources
+C:\Users\Doan\Documents\GitHub\KyThuatGiauTin_cuoiky\N14DCAT060_DoanHongHanh\demo_watermarking\obj\Debug\SteganoWave.csproj.GenerateResource.Cache

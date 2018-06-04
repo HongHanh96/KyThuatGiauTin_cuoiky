@@ -1,0 +1,69 @@
+c:\users\danh\documents\visual studio 2013\Projects\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\CuoiKy_Mp3API.dll.config
+c:\users\danh\documents\visual studio 2013\Projects\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\CuoiKy_Mp3API.dll
+c:\users\danh\documents\visual studio 2013\Projects\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\CuoiKy_Mp3API.pdb
+c:\users\danh\documents\visual studio 2013\Projects\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\Google.Apis.pdb
+c:\users\danh\documents\visual studio 2013\Projects\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\Google.Apis.xml
+c:\users\danh\documents\visual studio 2013\Projects\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\Google.Apis.Auth.pdb
+c:\users\danh\documents\visual studio 2013\Projects\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\Google.Apis.Auth.xml
+c:\users\danh\documents\visual studio 2013\Projects\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\Google.Apis.Core.pdb
+c:\users\danh\documents\visual studio 2013\Projects\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\Google.Apis.Core.xml
+c:\users\danh\documents\visual studio 2013\Projects\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\Google.Apis.Drive.v3.pdb
+c:\users\danh\documents\visual studio 2013\Projects\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\Google.Apis.Drive.v3.xml
+c:\users\danh\documents\visual studio 2013\Projects\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\Newtonsoft.Json.xml
+c:\users\danh\documents\visual studio 2013\Projects\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\System.Web.Razor.xml
+c:\users\danh\documents\visual studio 2013\Projects\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\System.Web.Webpages.xml
+c:\users\danh\documents\visual studio 2013\Projects\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\System.Web.Webpages.Deployment.xml
+c:\users\danh\documents\visual studio 2013\Projects\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\System.Web.Webpages.Razor.xml
+c:\users\danh\documents\visual studio 2013\Projects\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\System.Web.Helpers.xml
+c:\users\danh\documents\visual studio 2013\Projects\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\System.Web.Mvc.xml
+c:\users\danh\documents\visual studio 2013\Projects\CuoiKy_Mp3API\CuoiKy_Mp3API\obj\Debug\CuoiKy_Mp3API.csprojResolveAssemblyReference.cache
+c:\users\danh\documents\visual studio 2013\Projects\CuoiKy_Mp3API\CuoiKy_Mp3API\obj\Debug\CuoiKy_Mp3API.dll
+c:\users\danh\documents\visual studio 2013\Projects\CuoiKy_Mp3API\CuoiKy_Mp3API\obj\Debug\CuoiKy_Mp3API.pdb
+c:\users\danh\documents\visual studio 2013\Projects\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\Google.Apis.Auth.dll
+c:\users\danh\documents\visual studio 2013\Projects\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\Google.Apis.Auth.PlatformServices.dll
+c:\users\danh\documents\visual studio 2013\Projects\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\Google.Apis.Core.dll
+c:\users\danh\documents\visual studio 2013\Projects\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\Google.Apis.dll
+c:\users\danh\documents\visual studio 2013\Projects\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\Google.Apis.Drive.v3.dll
+c:\users\danh\documents\visual studio 2013\Projects\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\Google.Apis.PlatformServices.dll
+c:\users\danh\documents\visual studio 2013\Projects\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\Newtonsoft.Json.dll
+c:\users\danh\documents\visual studio 2013\Projects\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\System.Web.Helpers.dll
+c:\users\danh\documents\visual studio 2013\Projects\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\System.Web.Mvc.dll
+c:\users\danh\documents\visual studio 2013\Projects\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\System.Web.Razor.dll
+c:\users\danh\documents\visual studio 2013\Projects\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\System.Web.Webpages.Deployment.dll
+c:\users\danh\documents\visual studio 2013\Projects\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\System.Web.Webpages.dll
+c:\users\danh\documents\visual studio 2013\Projects\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\System.Web.Webpages.Razor.dll
+D:\project\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\CuoiKy_Mp3API.dll.config
+D:\project\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\CuoiKy_Mp3API.dll
+D:\project\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\CuoiKy_Mp3API.pdb
+D:\project\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\Google.Apis.Auth.dll
+D:\project\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\Google.Apis.Auth.PlatformServices.dll
+D:\project\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\Google.Apis.Core.dll
+D:\project\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\Google.Apis.dll
+D:\project\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\Google.Apis.Drive.v3.dll
+D:\project\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\Google.Apis.PlatformServices.dll
+D:\project\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\Microsoft.Web.Infrastructure.dll
+D:\project\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\Newtonsoft.Json.dll
+D:\project\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\System.Web.Helpers.dll
+D:\project\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\System.Web.Mvc.dll
+D:\project\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\System.Web.Razor.dll
+D:\project\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\System.Web.Webpages.Deployment.dll
+D:\project\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\System.Web.Webpages.dll
+D:\project\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\System.Web.Webpages.Razor.dll
+D:\project\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\Google.Apis.pdb
+D:\project\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\Google.Apis.xml
+D:\project\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\Google.Apis.Auth.pdb
+D:\project\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\Google.Apis.Auth.xml
+D:\project\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\Google.Apis.Core.pdb
+D:\project\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\Google.Apis.Core.xml
+D:\project\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\Google.Apis.Drive.v3.pdb
+D:\project\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\Google.Apis.Drive.v3.xml
+D:\project\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\Newtonsoft.Json.xml
+D:\project\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\System.Web.Razor.xml
+D:\project\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\System.Web.Webpages.xml
+D:\project\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\System.Web.Webpages.Deployment.xml
+D:\project\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\System.Web.Webpages.Razor.xml
+D:\project\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\System.Web.Helpers.xml
+D:\project\CuoiKy_Mp3API\CuoiKy_Mp3API\bin\System.Web.Mvc.xml
+D:\project\CuoiKy_Mp3API\CuoiKy_Mp3API\obj\Debug\CuoiKy_Mp3API.csprojResolveAssemblyReference.cache
+D:\project\CuoiKy_Mp3API\CuoiKy_Mp3API\obj\Debug\CuoiKy_Mp3API.dll
+D:\project\CuoiKy_Mp3API\CuoiKy_Mp3API\obj\Debug\CuoiKy_Mp3API.pdb
